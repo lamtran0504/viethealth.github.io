@@ -537,22 +537,22 @@ Dựa chế độ ăn của bạn chủ yếu trên thịt, cá, trứng, bơ, h
 
 <h3>Snack keto lành mạnh</h3>
 Trong trường hợp bạn đói giữa các bữa ăn, đây là một số loại snack keto lành mạnh và chấp nhận được:
+<li> Thịt hoặc cá có hàm lượng chất béo cao. </li>
+<li> Phô mai. </li>
+<li> Một ít hạt hoặc hạt giống. </li>
+<li> Miếng sushi keto. </li>
+<li> Ô liu. </li>
+<li> Một hoặc hai quả trứng luộc cứng hoặc trứng nấu chảy. </li>
+<li> Thanh snack keto thân thiện. </li>
+<li> Socola đen 90%. </li>
+<li> Sữa chua Hy Lạp ít chất béo pha trộn với bơ đậu phộng và bột ca cao. </li>
+<li> Ớt chuông và guacamole. </li>
+<li> Dâu và phô mai sữa cottage tự nhiên. </li>
+<li> Cần tây kèm xốt salsa và guacamole. </li>
+<li> Bánh mì cá viên bò khô. </li>
+<li> Phần nhỏ các bữa ăn thừa lại. </li>
+<li> Bông lan mỡ. </li>
 
-Thịt hoặc cá có hàm lượng chất béo cao.
-Phô mai.
-Một ít hạt hoặc hạt giống.
-Miếng sushi keto.
-Ô liu.
-Một hoặc hai quả trứng luộc cứng hoặc trứng nấu chảy.
-Thanh snack keto thân thiện.
-Socola đen 90%.
-Sữa chua Hy Lạp ít chất béo pha trộn với bơ đậu phộng và bột ca cao.
-Ớt chuông và guacamole.
-Dâu và phô mai sữa cottage tự nhiên.
-Cần tây kèm xốt salsa và guacamole.
-Bánh mì cá viên bò khô.
-Phần nhỏ các bữa ăn thừa lại.
-Bông lan mỡ.
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Các loại snack tốt cho chế độ ăn kiêng keto bao gồm thịt, phô mai, ô liu, trứng luộc, hạt, rau sống và socola đen. </div>
 
