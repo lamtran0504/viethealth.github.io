@@ -1,0 +1,77 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.magrin0 {
+    margin: 0;
+}
+
+.topBot20 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.topBot10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.leftRight20 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.referencePopupButton {
+    color: #2980b9;
+    cursor: default;
+}
+
+.referencePopupButton:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.popup {
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    
+    #referenceAbstract {
+        max-height: 300px;
+        padding: 0 10px 0 10px;
+        border: solid #32a1ce80;
+        overflow-y: scroll;
+        height: auto;
+        .para-title, .para-title-first {
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 5px;
+        }
+        .para-title-first {
+            margin-top: 10px !important;
+        }
+    }
+
+    #referenceAuthorContainer {
+        margin-bottom: 20px;
+        margin-top: 10px;
+        text-align: right;
+        margin-right: 100px;
+    }
+}
+
+article {
+    .summary {
+        border-left: solid #FF5F1F;
+        padding: 10px 10px 20px 20px;
+        background-color: #F1F1F1;
+    }
+    .summary-title {
+        color: #FF5F1F;
+        font-weight: bold;
+        margin: 10px;
+    }
+}

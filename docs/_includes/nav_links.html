@@ -1,0 +1,16 @@
+{% for category in site.categories %}
+	{% capture cat %}{{ category | first }}{% endcapture %}
+	<li class="nav-link">
+		{% if site.jekyll-archives %}
+			<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize | replace: "-", " " }}</a>
+		{% else %}
+			<a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize | replace: "-", " " }}</a>
+		{% endif %}
+	</li>
+{% endfor %}
+
+{% for page in site.pages %}
+	{% if page.title and page.main_nav == true %}
+		<li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endfor %}
