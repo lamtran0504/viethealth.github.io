@@ -364,7 +364,7 @@ references: '{
 }'
 ---
 
-<h2>Chế độ ăn keto: Hướng dẫn chi tiết cho người mới bắt đầu</h2>
+<h2> Chế độ ăn keto: Hướng dẫn chi tiết cho người mới bắt đầu </h2>
 
 Chế độ ăn keto liên quan đến việc tiêu thụ một lượng rất ít carbohydrate và thay thế chúng bằng chất béo để giúp cơ thể bạn đốt cháy chất béo để tạo năng lượng. Các lợi ích cho sức khỏe có thể bao gồm giảm cân và giảm nguy cơ mắc một số loại bệnh.
 
@@ -376,8 +376,8 @@ Chế độ ăn keto cũng có thể mang lại lợi ích cho bệnh nhân ti�
 
 Dưới đây là hướng dẫn chi tiết cho người mới bắt đầu với chế độ ăn keto.
 
-<h3>Chế độ ăn keto là gì?</h3>
-<h4>Cơ bản về keto</h4>
+<h3> Chế độ ăn keto là gì? </h3>
+<h4> Cơ bản về keto </h4>
 
 Chế độ ăn keto là một chế độ ăn ít carbohydrate, nhiều chất béo có nhiều điểm tương đồng với chế độ Atkins và các chế độ ăn ít carbohydrate khác.
 
@@ -407,7 +407,7 @@ Thông tin trong bài viết này chủ yếu áp dụng cho chế độ ăn ket
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Có một số phiên bản của chế độ keto. Phiên bản tiêu chuẩn (SKD) là phiên bản được nghiên cứu nhiều nhất và được đề xuất nhiều nhất. </div>
 
-<h2>Ketosis là gì?</h2>
+<h3>Ketosis là gì?</h3>
 Ketosis là trạng thái chuyển hóa mà trong đó cơ thể bạn sử dụng chất béo làm nhiên liệu thay vì carbohydrate.
 
 Trạng thái này xuất hiện khi bạn giảm mạnh việc tiêu thụ carbohydrate, giới hạn nguồn cung cấp glucose (đường), là nguồn năng lượng chính cho tế bào.
@@ -425,7 +425,7 @@ Một số dấu hiệu cũng có thể cho thấy bạn đã vào trạng thái
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Ketosis là trạng thái chuyển hóa mà trong đó cơ thể bạn sử dụng chất béo làm nhiên liệu thay vì carbohydrate. Điều chỉnh chế độ ăn uống và thực hành nhịn ăn định kỳ có thể giúp bạn vào trạng thái ketosis nhanh hơn. Một số dấu hiệu cũng có thể giúp xác định xem bạn đã vào trạng thái ketosis. </div>
 
-<h2> Chế độ ăn keto có thể giúp bạn giảm cân</h2>
+<h3> Chế độ ăn keto có thể giúp bạn giảm cân</h3>
 
 Chế độ ăn keto là cách hiệu quả để giảm cân và giảm nguy cơ mắc bệnh [1][2][3][4][5].
 
@@ -444,7 +444,7 @@ Ketone tăng cao, mức đường huyết thấp và độ nhạy cảm với in
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Chế độ ăn keto có thể giúp bạn giảm cân hơn so với chế độ ăn ít chất béo. Điều này thường xảy ra mà vẫn không cảm thấy đói. </div>
 
-<h2>Chế độ ăn keto cho bệnh nhân tiểu đường và tiền tiểu đường</h2>
+<h3>Chế độ ăn keto cho bệnh nhân tiểu đường và tiền tiểu đường</h3>
 Đặc trưng của tiểu đường là sự thay đổi trong quá trình chuyển hóa, mức đường huyết cao và sự suy giảm chức năng insulin [20].
 
 Chế độ ăn keto có thể giúp bạn giảm mỡ thừa, liên quan chặt chẽ đến tiểu đường loại 2, tiền tiểu đường và hội chứng chuyển hoá [21][22][23][24].
@@ -460,7 +460,7 @@ Hơn nữa, chỉ số đường huyết của họ cũng được cải thiện
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Chế độ ăn keto có thể cải thiện độ nhạy cảm với insulin và dẫn đến giảm mỡ, mang lại lợi ích sức khỏe đáng kể cho người mắc tiểu đường loại 2 hoặc tiền tiểu đường. </div>
 
-<h2>Các lợi ích sức khỏe khác của keto</h2>
+<h3>Các lợi ích sức khỏe khác của keto</h3>
 Thực tế, chế độ ăn keto ban đầu được sử dụng như một công cụ để điều trị các bệnh thần kinh như động kinh.
 
 Nghiên cứu hiện nay đã chỉ ra rằng chế độ ăn kiêng này có lợi cho nhiều loại bệnh khác nhau:
@@ -482,7 +482,7 @@ Nghiên cứu hiện nay đã chỉ ra rằng chế độ ăn kiêng này có l�
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Chế độ ăn keto có thể mang lại nhiều lợi ích sức khỏe, đặc biệt là với các bệnh liên quan đến chất chuyển hóa, thần kinh hoặc insulin. </div>
 
-<h2>Các loại thực phẩm cần tránh</h2>
+<h3>Các loại thực phẩm cần tránh</h3>
 Bất kỳ thức ăn nào chứa nhiều carbohydrate cần bị hạn chế.
 
 Dưới đây là danh sách các thực phẩm cần hạn chế hoặc loại bỏ khỏi chế độ ăn keto:
@@ -509,7 +509,7 @@ Dưới đây là danh sách các thực phẩm cần hạn chế hoặc loại 
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Tránh thực phẩm chứa carbohydrate như ngũ cốc, đường, đậu, gạo, khoai, kẹo, nước ngọt, đồ uống có cồn và hầu hết các loại trái cây. </div>
 
-<h2>Thực phẩm cần ăn</h2>
+<h3>Thực phẩm cần ăn</h3>
 Đa số các bữa ăn của bạn nên dựa trên những thực phẩm sau:
 
 <b>・Thịt:</b> thịt đỏ, xúc xích, thịt xông khói, gà và gà tây.
@@ -588,7 +588,8 @@ Cho phần tráng miệng, bạn có thể ăn các loại quả mọng với ke
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Khi ăn ngoài, hãy chọn món dựa trên thịt, cá hoặc trứng. Thay thế carbohydrate hoặc tinh bột bằng rau cải. </div>
 
-Tác dụng phụ và cách giảm thiểu chúng
+<h3> Tác dụng phụ và cách giảm thiểu chúng </h3>
+
 Mặc dù chế độ ăn ketogenic thường an toàn cho hầu hết những người khỏe mạnh, có thể có một số tác dụng phụ ban đầu trong khi cơ thể bạn thích nghi.
 
 Có một số bằng chứng truyền miệng về những tác dụng phụ này, thường được gọi là cúm keto [12]. Dựa trên báo cáo của mọi người với các kế hoạch ăn uống khác nhau, nó thường kết thúc trong vòng vài ngày.
@@ -610,7 +611,8 @@ Chế độ ăn keto cũng có thể thay đổi sự cân bằng nước và kh
 <div class="summary"><p class="summary-title"> TÓM TẮT </p>
 Nhiều tác dụng phụ của việc bắt đầu chế độ ăn keto có thể được hạn chế. Việc làm quen dần dần với keto và bổ sung khoáng chất có thể hữu ích. </div>
 
-Thực phẩm bổ sung cho chế độ ăn Keto
+<h3> Thực phẩm bổ sung cho chế độ ăn Keto </h3>
+
 Mặc dù không bắt buộc phải dùng bổ sung, một số loại có thể hữu ích.
 
 <b>・Dầu MCT.</b> Thêm vào đồ uống hoặc sữa chua, dầu MCT cung cấp năng lượng và giúp tăng mức ketone [36].

@@ -39,7 +39,7 @@ layout: default
         <div class="scrim {% if page.cover %}has-cover{% endif %}">
             <header class="post-header">
                 <h1 class="title">{{ page.title }}</h1>
-                <p class="info">by <strong>{{ page.author }}</strong></p>
+                <!-- <p class="info">by <strong>{{ page.author }}</strong></p> -->
             </header>
         </div>
     </div>
@@ -49,15 +49,17 @@ layout: default
         {% unless page.cover %} {% include page_divider.html %} {% endunless %}
 
         <section class="post-meta">
-            <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
+            <div class="post-date">{{ page.date | date: "Ngày %-d tháng %-m, %Y" }}</div>
             <div class="post-categories">
-                {% if page.categories.size > 0 %}in {% for cat in page.categories %}
+                {% if page.categories.size > 0 %}trong {% for cat in page.categories %}
                 {% if site.jekyll-archives %}
-                <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false
+                <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize | replace: "-", " " }}</a>{% if
+                forloop.last == false
                 %}, {%
                 endif %}
                 {% else %}
-                <a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %},
+                <a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize | replace: "-", " " }}</a>{% if
+                forloop.last == false %},
                 {% endif
                 %}
                 {% endif %}
@@ -70,7 +72,7 @@ layout: default
             | replace: '[', '<span class="referencePopupButton"><sup onclick="openReferencePopup($(this))">['
                     | replace: ']', ']</sup></span>'
             | replace: '<li>', '<p><b>・</b>'
-                | replace: '</li>', '</p>'
+                    | replace: '</li>', '</p>'
             %}
             {{ output }}
         </article>
@@ -86,10 +88,10 @@ layout: default
         {% endif %}
         {% endif %}
 
-        <section class="rss">
+        <!-- <section class="rss">
             <p class="rss-subscribe text"><strong>Subscribe <a href="{{ " /feed.xml" | prepend: site.baseurl }}">via
                         RSS</a></strong></p>
-        </section>
+        </section> -->
 
         <section class="share">
             <span>Share: </span>
@@ -173,7 +175,6 @@ layout: default
             <script type="text/javascript">
                 var disqus_shortname = '{{ site.disqus_shortname }}';
 
-                /* * * DON'T EDIT BELOW THIS LINE * * */
                 (function () {
                     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
                     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
